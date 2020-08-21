@@ -9,6 +9,7 @@ Your goal is to work through this notebook to help the company understand if the
 ### Part I - Probability:
 ----------------------------
 **1.** Now, read in the ab_data.csv data. Store it in df. 
+
 **2.** For the rows where treatment is not aligned with new_page or control is not aligned with old_page, we cannot be sure if this row truly received the new or old page.
 
 ### Part II - A/B Test:
